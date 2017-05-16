@@ -1,3 +1,5 @@
+#include<stdio.h>
 int main() {
-  return 42;
+  printf("Hello world!\n");
+  return 0;
 }
