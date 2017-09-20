@@ -1,8 +1,8 @@
 #include<stdio.h>
-#include<unistd>
+#include<unistd.h>
 int main() {
   printf("Hello world!\n");
-  unsigned int x = 42;
-  while(fork()) x++;
+  int x = 3500000;
+  while(1) x++;
   return 0;
 }
