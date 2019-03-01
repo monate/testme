@@ -7,6 +7,8 @@ int main() {
   printf("Hello world!\n");
   f();
   // x = 0xFFFFFFFA;
-  /* while(1) */ x++; 
+  /* while(1) */
+  fflush(NULL);
+  x++; 
   return 0;
 }
