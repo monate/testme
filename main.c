@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<unistd.h>
+//@ assigns \nothing;
 int f();
 int main() {
   int x; //  = 42;
