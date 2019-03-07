@@ -8,7 +8,7 @@ int main() {
   f();
   // x = 0xFFFFFFFA; 
   /* while(1) */
-  fflush(NULL);
+//  fflush(NULL);
   x++; 
   return 0;
 }
