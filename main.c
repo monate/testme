@@ -6,7 +6,7 @@ int main() {
   int x; //  = 42;
   printf("Hello world!\n");
   f();
-  // x = 0xFFFFFFFA;
+  // x = 0xFFFFFFFA; 
   /* while(1) */
   fflush(NULL);
   x++; 
