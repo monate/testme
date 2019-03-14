@@ -10,6 +10,5 @@ int main() {
   /* while(1) */
 //  fflush(NULL);
   x++;
-  
   return 0;
 }
