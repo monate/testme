@@ -9,6 +9,7 @@ int main() {
   // x = 0xFFFFFFFA; 
   /* while(1) */
 //  fflush(NULL);
-  x++; 
+  x++;
+  
   return 0;
 }
